@@ -1,6 +1,9 @@
 var name = prompt("hello im omar :) what is you name")
 alert("hello welcome to my wibsite " + name )
 
+var firstname = "omar"
+console.log(name)
+
 
 var favfood = prompt("what is your fav food")
 
