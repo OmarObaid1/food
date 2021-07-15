@@ -1,0 +1,48 @@
+body{
+  background-color: lightblue;
+  margin: 0px;
+}
+
+
+header{
+  background-color: crimson;
+  height: 90px;
+  padding: 20px;
+  padding-left: 100px;
+}
+
+
+
+footer{
+   background-color: burlywood
+}
+
+
+div{
+  height:20px;
+  width: 80px;
+  display: inline-block;
+  margin:  100px 50px 100px 100px;
+  padding-left: 20px; 
+
+}
+
+
+
+#secondP{
+  background-color: lightgreen
+}
+
+
+
+#red{
+  background-color: rebeccapurple
+}
+
+.orange{
+  background-color: yellow ;
+}
+
+
+
+
