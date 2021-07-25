@@ -1,4 +1,6 @@
 
+var name = prompt("what is your name")
+var age = prompt("what is your age ")
 
 
 const person = {
@@ -8,7 +10,9 @@ const person = {
   location : "Amman",
   sex : "Male",
   age : "20"
+
 }
+document.write(person)
 console.log(person);
 
 
@@ -22,6 +26,8 @@ var result = result -6;
 var result = result *2;
 var result = result /3;
 
-
+document.write(result)
 console.log(result);
+
+
 
